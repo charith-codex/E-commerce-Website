@@ -9,6 +9,7 @@ function menutoggle() {
     MenuItems.style.maxHeight = "0px";
   }
 }
+/*------------- js for login form -----------*/
 
 /*------------- js for product gallary -----------*/
 var ProductImg = document.getElementById("ProductImg");
